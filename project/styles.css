@@ -1,0 +1,16 @@
+/* ul{
+    margin-left: 500px;
+}
+a{
+    padding:20px
+} */
+
+.menu{
+    margin-right: 20px;
+    position: fixed;
+    right: 0;
+}
+body{
+    background: url(Weather-Desktop.jpg);
+    background-size: cover;
+}
